@@ -1,0 +1,30 @@
+#div1{
+    background-color: #e4ac35;
+    box-sizing: content-box;
+    width : 400px;
+    height : 20px;
+    border: 10px solid #e4ac35;
+    padding : 30px;
+    text-align: center;
+}
+
+#div2{
+    box-sizing: content-box;
+    width : 400px;
+    height : 200px;
+    border: 10px solid #203280;
+    padding : 30px;
+    margin: 10px 0 10px 0;
+    text-align: center;
+}
+
+#div3{
+    background-color: #271f52;
+    box-sizing: content-box;
+    width : 400px;
+    height : 20px;
+    padding : 30px;
+    border: 10px solid #271f52;    
+    text-align: center;
+    color: white;
+}

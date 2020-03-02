@@ -6,8 +6,10 @@ import Footer from './footer.js';
 class Router extends React.Component{
     render(){
         return( 
-            <Header />
-            <Footer />
+            <div>
+            <Header></Header>
+            <Footer></Footer>
+            </div>
         )
     }
 }

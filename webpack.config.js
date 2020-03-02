@@ -4,7 +4,7 @@ const path = require('path');
 
 module.exports = {
 
-    entry: './src/karuth/conditionalComponent.js',
+    entry: './src/routing/main-router.js',
     module: {
         rules: [
             {
@@ -45,7 +45,8 @@ module.exports = {
 
     devServer: {
         port: 3000,
-        clientLogLevel: 'none'
+        clientLogLevel: 'none',
+        historyApiFallback: true
 
     }
 
