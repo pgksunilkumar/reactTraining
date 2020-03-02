@@ -1,1 +1,4 @@
 # reactTraining
+
+
+npm start
